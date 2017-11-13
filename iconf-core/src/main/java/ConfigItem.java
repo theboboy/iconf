@@ -12,4 +12,8 @@ public class ConfigItem {
 
 	private String version;
 
+	@Override
+	public String toString() {
+		return key + "[" + type + "](" + version + "): " + value;
+	}
 }
