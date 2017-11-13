@@ -10,6 +10,21 @@
 	<version>0.0.1</version>
 	<modules>
 		<module>iconf-core</module>
+		<module>iconf-server</module>
+		<module>iconf-client-java</module>
+		<module>iconf-client-kotlin</module>
+		<module>iconf-client-spring-adapter-java</module>
+		<module>iconf-client-spring-adapter-kotlin</module>
+		<module>iconf-client-demo</module>
+		<module>iconf-admin</module>
+		<module>iconf-face</module>
+		<module>iconf-mysql-single</module>
+		<module>iconf-mysql-master-slave</module>
+		<module>iconf-redis-single</module>
+		<module>iconf-redis-sentinel</module>
+		<module>iconf-zookeeper</module>
+		<module>iconf-client-base</module>
+		<module>iconf-db</module>
 	</modules>
 
 	<dependencies>
