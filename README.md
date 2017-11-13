@@ -10,7 +10,7 @@
  - iconf-redis-sentinel 哨兵的redis实现
  - iconf-zookeeper zookeeper的实现
 ----------
- - iconf-admin WEB管理平台部署 包含界面和接口 依赖iconf-db iconf-face和某种实现
+ - iconf-admin web管理平台部署 包含界面和接口 依赖iconf-db iconf-face和某种实现
 ----------
  - iconf-server 服务端部署 依赖 iconf-face和某种实现
 ----------
